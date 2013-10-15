@@ -1,5 +1,12 @@
+body {
+	overflow: hidden;
+}
+
 div {
 	background: #f0f;
+	float: left;
 	height: 100px;
+	margin: 5px;
 	width: 100px;
 }
+
